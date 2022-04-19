@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
-   puts("Hello, world!/n");
-   return EXIT_SUCCESS;
+int main()
+{
+    puts("Hello, world!");
+    return EXIT_SUCCESS;
 }
